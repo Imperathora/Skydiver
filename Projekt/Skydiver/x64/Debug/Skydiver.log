@@ -1,0 +1,35 @@
+﻿  Collectables.cpp
+e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\collectables.cpp(49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\genericinteractables.h(47): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\genericinteractables.h(41): note: while compiling class template member function 'void GenericInteractables<SDL_Rect>::InteractablesScrollSpeed(unsigned int,unsigned int,const int,float,T [],int)'
+          with
+          [
+              T=SDL_Rect
+          ]
+  e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\collectables.cpp(49): note: see reference to function template instantiation 'void GenericInteractables<SDL_Rect>::InteractablesScrollSpeed(unsigned int,unsigned int,const int,float,T [],int)' being compiled
+          with
+          [
+              T=SDL_Rect
+          ]
+  e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\collectables.h(12): note: see reference to class template instantiation 'GenericInteractables<SDL_Rect>' being compiled
+  Enemies.cpp
+e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\enemies.cpp(38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\genericinteractables.h(47): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\genericinteractables.h(41): note: while compiling class template member function 'void GenericInteractables<SDL_Rect>::InteractablesScrollSpeed(unsigned int,unsigned int,const int,float,T [],int)'
+          with
+          [
+              T=SDL_Rect
+          ]
+  e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\enemies.cpp(38): note: see reference to function template instantiation 'void GenericInteractables<SDL_Rect>::InteractablesScrollSpeed(unsigned int,unsigned int,const int,float,T [],int)' being compiled
+          with
+          [
+              T=SDL_Rect
+          ]
+  e:\uni\semester 4\praktische aspekte der softwaretechnik\abgabe_thorawaldmann\projekt\skydiver\enemies.h(11): note: see reference to class template instantiation 'GenericInteractables<SDL_Rect>' being compiled
+  GameManager.cpp
+  InputManager.cpp
+  Player.cpp
+  Skydiver.cpp
+  UserInterface.cpp
+  Generating Code...
+  Skydiver.vcxproj -> E:\Uni\SEMESTER 4\Praktische Aspekte der Softwaretechnik\Abgabe_ThoraWaldmann\Projekt\x64\Debug\Skydiver.exe
